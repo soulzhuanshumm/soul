@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-02T09:04:36.524Z</updated>
+  <updated>2018-07-03T03:46:21.629Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,23 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/07/02/hello-world/"/>
-    <id>http://yoursite.com/2018/07/02/hello-world/</id>
-    <published>2018-07-02T09:04:36.523Z</published>
-    <updated>2018-07-02T09:04:36.524Z</updated>
+    <title>鸡兔同笼</title>
+    <link href="http://yoursite.com/2018/07/03/%E9%B8%A1%E5%85%94%E5%90%8C%E7%AC%BC/"/>
+    <id>http://yoursite.com/2018/07/03/鸡兔同笼/</id>
+    <published>2018-07-03T03:22:09.000Z</published>
+    <updated>2018-07-03T03:46:21.629Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p> &emsp;&emsp;一土豪朋友没读过书，生意却做的相当的大，我一直很好奇。今天去拜访他，终于找到了答案! 他儿子在做作业，有道题不会，叫我们帮忙！ 题目是：鸡和兔共15只，共有40只脚，鸡和兔各几只？ 我答，“设鸡的数量为X，兔的数量为Y”……我还没算出答案，朋友已给出了答案！他说你们这些念过书的人不残废才怪呢，他的算法是：假设鸡和兔都训练有素，吹一声哨，抬起一只脚，40-15=25。再吹哨，又抬起一只脚，25-15=10，这时鸡都一屁股坐地上了，兔子还两只脚立着。所以，兔子有10÷2=5只，鸡有15-5=10只。 所以他儿子数学总考第一。这种算法，让奥数老师们情何以堪!只能感慨学习不能读死书啊！</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;blockquote&gt;
+&lt;p&gt; &amp;emsp;&amp;emsp;一土豪朋友没读过书，生意却做的相当的大，我一直很好奇。今天去拜访他，终于找到了答案! 他儿子在做作业，有道题不会，叫我们帮忙！ 题目是：鸡和兔共15只，共有40只脚，鸡和兔各几只？ 我答，“设鸡的数量为X，兔的数量为Y”…
       
     
     </summary>
     
+    
+      <category term="数学问题" scheme="http://yoursite.com/tags/%E6%95%B0%E5%AD%A6%E9%97%AE%E9%A2%98/"/>
     
   </entry>
   
